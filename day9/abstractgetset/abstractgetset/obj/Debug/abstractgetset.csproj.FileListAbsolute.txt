@@ -1,0 +1,8 @@
+D:\UST  DEMO\day9\abstractgetset\abstractgetset\bin\Debug\abstractgetset.exe.config
+D:\UST  DEMO\day9\abstractgetset\abstractgetset\bin\Debug\abstractgetset.exe
+D:\UST  DEMO\day9\abstractgetset\abstractgetset\bin\Debug\abstractgetset.pdb
+D:\UST  DEMO\day9\abstractgetset\abstractgetset\obj\Debug\abstractgetset.csproj.AssemblyReference.cache
+D:\UST  DEMO\day9\abstractgetset\abstractgetset\obj\Debug\abstractgetset.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day9\abstractgetset\abstractgetset\obj\Debug\abstractgetset.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day9\abstractgetset\abstractgetset\obj\Debug\abstractgetset.exe
+D:\UST  DEMO\day9\abstractgetset\abstractgetset\obj\Debug\abstractgetset.pdb

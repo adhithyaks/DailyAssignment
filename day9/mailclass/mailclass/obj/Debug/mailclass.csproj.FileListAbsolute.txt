@@ -1,0 +1,8 @@
+D:\UST  DEMO\day9\mailclass\mailclass\bin\Debug\mailclass.exe.config
+D:\UST  DEMO\day9\mailclass\mailclass\bin\Debug\mailclass.exe
+D:\UST  DEMO\day9\mailclass\mailclass\bin\Debug\mailclass.pdb
+D:\UST  DEMO\day9\mailclass\mailclass\obj\Debug\mailclass.csproj.AssemblyReference.cache
+D:\UST  DEMO\day9\mailclass\mailclass\obj\Debug\mailclass.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day9\mailclass\mailclass\obj\Debug\mailclass.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day9\mailclass\mailclass\obj\Debug\mailclass.exe
+D:\UST  DEMO\day9\mailclass\mailclass\obj\Debug\mailclass.pdb
