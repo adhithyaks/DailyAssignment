@@ -1,0 +1,16 @@
+D:\UST  DEMO\day2\greaternumber\greaternumber\bin\Debug\greaternumber.exe.config
+D:\UST  DEMO\day2\greaternumber\greaternumber\bin\Debug\greaternumber.exe
+D:\UST  DEMO\day2\greaternumber\greaternumber\bin\Debug\greaternumber.pdb
+D:\UST  DEMO\day2\greaternumber\greaternumber\obj\Debug\greaternumber.csproj.AssemblyReference.cache
+D:\UST  DEMO\day2\greaternumber\greaternumber\obj\Debug\greaternumber.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day2\greaternumber\greaternumber\obj\Debug\greaternumber.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day2\greaternumber\greaternumber\obj\Debug\greaternumber.exe
+D:\UST  DEMO\day2\greaternumber\greaternumber\obj\Debug\greaternumber.pdb
+D:\UST  DEMO\day 2\greaternumber\greaternumber\bin\Debug\greaternumber.exe.config
+D:\UST  DEMO\day 2\greaternumber\greaternumber\bin\Debug\greaternumber.exe
+D:\UST  DEMO\day 2\greaternumber\greaternumber\bin\Debug\greaternumber.pdb
+D:\UST  DEMO\day 2\greaternumber\greaternumber\obj\Debug\greaternumber.csproj.AssemblyReference.cache
+D:\UST  DEMO\day 2\greaternumber\greaternumber\obj\Debug\greaternumber.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day 2\greaternumber\greaternumber\obj\Debug\greaternumber.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day 2\greaternumber\greaternumber\obj\Debug\greaternumber.exe
+D:\UST  DEMO\day 2\greaternumber\greaternumber\obj\Debug\greaternumber.pdb

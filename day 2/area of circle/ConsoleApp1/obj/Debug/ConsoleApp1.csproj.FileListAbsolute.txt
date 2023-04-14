@@ -1,0 +1,8 @@
+D:\UST  DEMO\day 2\area of circle\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\UST  DEMO\day 2\area of circle\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\UST  DEMO\day 2\area of circle\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\UST  DEMO\day 2\area of circle\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\UST  DEMO\day 2\area of circle\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day 2\area of circle\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day 2\area of circle\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\UST  DEMO\day 2\area of circle\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
