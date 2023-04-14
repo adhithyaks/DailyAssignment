@@ -1,0 +1,8 @@
+D:\UST  DEMO\day3\voting\voting\obj\Debug\voting.csproj.AssemblyReference.cache
+D:\UST  DEMO\day3\voting\voting\obj\Debug\voting.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day3\voting\voting\obj\Debug\voting.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day3\voting\voting\bin\Debug\voting.exe.config
+D:\UST  DEMO\day3\voting\voting\bin\Debug\voting.exe
+D:\UST  DEMO\day3\voting\voting\bin\Debug\voting.pdb
+D:\UST  DEMO\day3\voting\voting\obj\Debug\voting.exe
+D:\UST  DEMO\day3\voting\voting\obj\Debug\voting.pdb

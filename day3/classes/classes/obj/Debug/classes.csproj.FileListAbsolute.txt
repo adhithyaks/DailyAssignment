@@ -1,0 +1,8 @@
+D:\UST  DEMO\day3\classes\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+D:\UST  DEMO\day3\classes\classes\obj\Debug\classes.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day3\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day3\classes\classes\bin\Debug\classes.exe.config
+D:\UST  DEMO\day3\classes\classes\bin\Debug\classes.exe
+D:\UST  DEMO\day3\classes\classes\bin\Debug\classes.pdb
+D:\UST  DEMO\day3\classes\classes\obj\Debug\classes.exe
+D:\UST  DEMO\day3\classes\classes\obj\Debug\classes.pdb

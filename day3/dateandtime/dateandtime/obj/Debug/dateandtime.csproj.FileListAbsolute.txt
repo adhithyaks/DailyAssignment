@@ -1,0 +1,8 @@
+D:\UST  DEMO\day3\dateandtime\dateandtime\bin\Debug\dateandtime.exe.config
+D:\UST  DEMO\day3\dateandtime\dateandtime\bin\Debug\dateandtime.exe
+D:\UST  DEMO\day3\dateandtime\dateandtime\bin\Debug\dateandtime.pdb
+D:\UST  DEMO\day3\dateandtime\dateandtime\obj\Debug\dateandtime.csproj.AssemblyReference.cache
+D:\UST  DEMO\day3\dateandtime\dateandtime\obj\Debug\dateandtime.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day3\dateandtime\dateandtime\obj\Debug\dateandtime.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day3\dateandtime\dateandtime\obj\Debug\dateandtime.exe
+D:\UST  DEMO\day3\dateandtime\dateandtime\obj\Debug\dateandtime.pdb

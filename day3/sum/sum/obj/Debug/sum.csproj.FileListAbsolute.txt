@@ -1,0 +1,8 @@
+D:\UST  DEMO\day3\sum\sum\bin\Debug\sum.exe.config
+D:\UST  DEMO\day3\sum\sum\bin\Debug\sum.exe
+D:\UST  DEMO\day3\sum\sum\bin\Debug\sum.pdb
+D:\UST  DEMO\day3\sum\sum\obj\Debug\sum.csproj.AssemblyReference.cache
+D:\UST  DEMO\day3\sum\sum\obj\Debug\sum.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day3\sum\sum\obj\Debug\sum.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day3\sum\sum\obj\Debug\sum.exe
+D:\UST  DEMO\day3\sum\sum\obj\Debug\sum.pdb
