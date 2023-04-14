@@ -1,0 +1,8 @@
+D:\UST  DEMO\day5\menu\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+D:\UST  DEMO\day5\menu\menu\obj\Debug\menu.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day5\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day5\menu\menu\bin\Debug\menu.exe.config
+D:\UST  DEMO\day5\menu\menu\bin\Debug\menu.exe
+D:\UST  DEMO\day5\menu\menu\bin\Debug\menu.pdb
+D:\UST  DEMO\day5\menu\menu\obj\Debug\menu.exe
+D:\UST  DEMO\day5\menu\menu\obj\Debug\menu.pdb
