@@ -1,0 +1,8 @@
+D:\UST  DEMO\day8\fruitorangne\fruitorangne\bin\Debug\fruitorangne.exe.config
+D:\UST  DEMO\day8\fruitorangne\fruitorangne\bin\Debug\fruitorangne.exe
+D:\UST  DEMO\day8\fruitorangne\fruitorangne\bin\Debug\fruitorangne.pdb
+D:\UST  DEMO\day8\fruitorangne\fruitorangne\obj\Debug\fruitorangne.csproj.AssemblyReference.cache
+D:\UST  DEMO\day8\fruitorangne\fruitorangne\obj\Debug\fruitorangne.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day8\fruitorangne\fruitorangne\obj\Debug\fruitorangne.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day8\fruitorangne\fruitorangne\obj\Debug\fruitorangne.exe
+D:\UST  DEMO\day8\fruitorangne\fruitorangne\obj\Debug\fruitorangne.pdb
