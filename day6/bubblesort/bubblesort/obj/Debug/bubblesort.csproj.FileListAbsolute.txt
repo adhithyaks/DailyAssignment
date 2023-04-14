@@ -1,0 +1,8 @@
+D:\UST  DEMO\day6\bubblesort\bubblesort\bin\Debug\bubblesort.exe.config
+D:\UST  DEMO\day6\bubblesort\bubblesort\bin\Debug\bubblesort.exe
+D:\UST  DEMO\day6\bubblesort\bubblesort\bin\Debug\bubblesort.pdb
+D:\UST  DEMO\day6\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.AssemblyReference.cache
+D:\UST  DEMO\day6\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day6\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day6\bubblesort\bubblesort\obj\Debug\bubblesort.exe
+D:\UST  DEMO\day6\bubblesort\bubblesort\obj\Debug\bubblesort.pdb
