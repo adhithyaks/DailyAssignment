@@ -1,0 +1,8 @@
+D:\UST  DEMO\day10\generic1equalornot\generic1equalornot\bin\Debug\generic1equalornot.exe.config
+D:\UST  DEMO\day10\generic1equalornot\generic1equalornot\bin\Debug\generic1equalornot.exe
+D:\UST  DEMO\day10\generic1equalornot\generic1equalornot\bin\Debug\generic1equalornot.pdb
+D:\UST  DEMO\day10\generic1equalornot\generic1equalornot\obj\Debug\generic1equalornot.csproj.AssemblyReference.cache
+D:\UST  DEMO\day10\generic1equalornot\generic1equalornot\obj\Debug\generic1equalornot.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day10\generic1equalornot\generic1equalornot\obj\Debug\generic1equalornot.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day10\generic1equalornot\generic1equalornot\obj\Debug\generic1equalornot.exe
+D:\UST  DEMO\day10\generic1equalornot\generic1equalornot\obj\Debug\generic1equalornot.pdb
