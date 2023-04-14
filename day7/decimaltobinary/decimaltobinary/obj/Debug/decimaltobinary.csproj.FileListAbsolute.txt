@@ -1,0 +1,8 @@
+D:\UST  DEMO\day3\decimaltobinary\decimaltobinary\bin\Debug\decimaltobinary.exe.config
+D:\UST  DEMO\day3\decimaltobinary\decimaltobinary\bin\Debug\decimaltobinary.exe
+D:\UST  DEMO\day3\decimaltobinary\decimaltobinary\bin\Debug\decimaltobinary.pdb
+D:\UST  DEMO\day3\decimaltobinary\decimaltobinary\obj\Debug\decimaltobinary.csproj.AssemblyReference.cache
+D:\UST  DEMO\day3\decimaltobinary\decimaltobinary\obj\Debug\decimaltobinary.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day3\decimaltobinary\decimaltobinary\obj\Debug\decimaltobinary.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day3\decimaltobinary\decimaltobinary\obj\Debug\decimaltobinary.exe
+D:\UST  DEMO\day3\decimaltobinary\decimaltobinary\obj\Debug\decimaltobinary.pdb
