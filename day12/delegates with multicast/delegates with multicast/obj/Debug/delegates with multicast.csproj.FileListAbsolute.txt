@@ -1,0 +1,8 @@
+D:\UST  DEMO\day12\delegates with multicast\delegates with multicast\bin\Debug\delegates with multicast.exe.config
+D:\UST  DEMO\day12\delegates with multicast\delegates with multicast\bin\Debug\delegates with multicast.exe
+D:\UST  DEMO\day12\delegates with multicast\delegates with multicast\bin\Debug\delegates with multicast.pdb
+D:\UST  DEMO\day12\delegates with multicast\delegates with multicast\obj\Debug\delegates with multicast.csproj.AssemblyReference.cache
+D:\UST  DEMO\day12\delegates with multicast\delegates with multicast\obj\Debug\delegates with multicast.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day12\delegates with multicast\delegates with multicast\obj\Debug\delegates with multicast.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day12\delegates with multicast\delegates with multicast\obj\Debug\delegates with multicast.exe
+D:\UST  DEMO\day12\delegates with multicast\delegates with multicast\obj\Debug\delegates with multicast.pdb

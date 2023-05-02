@@ -1,0 +1,8 @@
+D:\UST  DEMO\day12\dividebyzerowithfinally\dividebyzerowithfinally\bin\Debug\dividebyzerowithfinally.exe.config
+D:\UST  DEMO\day12\dividebyzerowithfinally\dividebyzerowithfinally\bin\Debug\dividebyzerowithfinally.exe
+D:\UST  DEMO\day12\dividebyzerowithfinally\dividebyzerowithfinally\bin\Debug\dividebyzerowithfinally.pdb
+D:\UST  DEMO\day12\dividebyzerowithfinally\dividebyzerowithfinally\obj\Debug\dividebyzerowithfinally.csproj.AssemblyReference.cache
+D:\UST  DEMO\day12\dividebyzerowithfinally\dividebyzerowithfinally\obj\Debug\dividebyzerowithfinally.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day12\dividebyzerowithfinally\dividebyzerowithfinally\obj\Debug\dividebyzerowithfinally.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day12\dividebyzerowithfinally\dividebyzerowithfinally\obj\Debug\dividebyzerowithfinally.exe
+D:\UST  DEMO\day12\dividebyzerowithfinally\dividebyzerowithfinally\obj\Debug\dividebyzerowithfinally.pdb
