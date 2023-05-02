@@ -1,0 +1,8 @@
+D:\UST  DEMO\day16\Song\req5\bin\Debug\req5.exe.config
+D:\UST  DEMO\day16\Song\req5\bin\Debug\req5.exe
+D:\UST  DEMO\day16\Song\req5\bin\Debug\req5.pdb
+D:\UST  DEMO\day16\Song\req5\obj\Debug\req5.csproj.AssemblyReference.cache
+D:\UST  DEMO\day16\Song\req5\obj\Debug\req5.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day16\Song\req5\obj\Debug\req5.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day16\Song\req5\obj\Debug\req5.exe
+D:\UST  DEMO\day16\Song\req5\obj\Debug\req5.pdb

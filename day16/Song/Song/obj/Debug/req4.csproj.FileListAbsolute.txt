@@ -1,0 +1,8 @@
+D:\UST  DEMO\day16\Song\Song\bin\Debug\Song.exe.config
+D:\UST  DEMO\day16\Song\Song\bin\Debug\Song.exe
+D:\UST  DEMO\day16\Song\Song\bin\Debug\Song.pdb
+D:\UST  DEMO\day16\Song\Song\obj\Debug\req4.csproj.AssemblyReference.cache
+D:\UST  DEMO\day16\Song\Song\obj\Debug\req4.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day16\Song\Song\obj\Debug\req4.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day16\Song\Song\obj\Debug\Song.exe
+D:\UST  DEMO\day16\Song\Song\obj\Debug\Song.pdb
