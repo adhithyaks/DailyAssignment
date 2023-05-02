@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "returnfromananonymousmethod", "returnfromananonymousmethod\returnfromananonymousmethod.csproj", "{95467CD7-4107-446B-83BF-282E72DB8056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95467CD7-4107-446B-83BF-282E72DB8056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95467CD7-4107-446B-83BF-282E72DB8056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95467CD7-4107-446B-83BF-282E72DB8056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95467CD7-4107-446B-83BF-282E72DB8056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F63E478-337D-4E9C-91CB-744A5B9F0EE0}
+	EndGlobalSection
+EndGlobal

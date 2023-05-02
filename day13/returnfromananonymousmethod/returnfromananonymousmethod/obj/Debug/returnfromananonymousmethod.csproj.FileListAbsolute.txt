@@ -1,0 +1,8 @@
+D:\UST  DEMO\day13\returnfromananonymousmethod\returnfromananonymousmethod\bin\Debug\returnfromananonymousmethod.exe.config
+D:\UST  DEMO\day13\returnfromananonymousmethod\returnfromananonymousmethod\bin\Debug\returnfromananonymousmethod.exe
+D:\UST  DEMO\day13\returnfromananonymousmethod\returnfromananonymousmethod\bin\Debug\returnfromananonymousmethod.pdb
+D:\UST  DEMO\day13\returnfromananonymousmethod\returnfromananonymousmethod\obj\Debug\returnfromananonymousmethod.csproj.AssemblyReference.cache
+D:\UST  DEMO\day13\returnfromananonymousmethod\returnfromananonymousmethod\obj\Debug\returnfromananonymousmethod.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day13\returnfromananonymousmethod\returnfromananonymousmethod\obj\Debug\returnfromananonymousmethod.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day13\returnfromananonymousmethod\returnfromananonymousmethod\obj\Debug\returnfromananonymousmethod.exe
+D:\UST  DEMO\day13\returnfromananonymousmethod\returnfromananonymousmethod\obj\Debug\returnfromananonymousmethod.pdb
