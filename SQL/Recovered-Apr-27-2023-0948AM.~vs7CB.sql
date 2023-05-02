@@ -1,0 +1,1 @@
+insert into dept values(102,'marketing');
