@@ -1,0 +1,8 @@
+D:\UST  DEMO\day12\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe.config
+D:\UST  DEMO\day12\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe
+D:\UST  DEMO\day12\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.pdb
+D:\UST  DEMO\day12\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.csproj.AssemblyReference.cache
+D:\UST  DEMO\day12\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day12\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day12\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.exe
+D:\UST  DEMO\day12\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.pdb
