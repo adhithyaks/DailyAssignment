@@ -1,0 +1,8 @@
+D:\UST  DEMO\day11\mailreq2\mailreq2\obj\Debug\mailreq2.csproj.AssemblyReference.cache
+D:\UST  DEMO\day11\mailreq2\mailreq2\obj\Debug\mailreq2.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day11\mailreq2\mailreq2\obj\Debug\mailreq2.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day11\mailreq2\mailreq2\bin\Debug\mailreq2.exe.config
+D:\UST  DEMO\day11\mailreq2\mailreq2\bin\Debug\mailreq2.exe
+D:\UST  DEMO\day11\mailreq2\mailreq2\bin\Debug\mailreq2.pdb
+D:\UST  DEMO\day11\mailreq2\mailreq2\obj\Debug\mailreq2.exe
+D:\UST  DEMO\day11\mailreq2\mailreq2\obj\Debug\mailreq2.pdb

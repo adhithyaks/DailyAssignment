@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mailreq2", "mailreq2\mailreq2.csproj", "{5E7DB833-D7F0-4CA7-B5B4-7EC01F46435A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mailreq1", "mailreq1\mailreq1.csproj", "{87701DF6-5BD1-44BD-8067-31576EF2E8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E7DB833-D7F0-4CA7-B5B4-7EC01F46435A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7DB833-D7F0-4CA7-B5B4-7EC01F46435A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7DB833-D7F0-4CA7-B5B4-7EC01F46435A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7DB833-D7F0-4CA7-B5B4-7EC01F46435A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87701DF6-5BD1-44BD-8067-31576EF2E8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87701DF6-5BD1-44BD-8067-31576EF2E8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87701DF6-5BD1-44BD-8067-31576EF2E8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87701DF6-5BD1-44BD-8067-31576EF2E8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31D0E610-FE75-40F9-AB45-800DD5C91E14}
+	EndGlobalSection
+EndGlobal
