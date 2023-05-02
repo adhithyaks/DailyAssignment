@@ -1,0 +1,8 @@
+D:\UST  DEMO\day11\carpoolreq1\carpoolreq5\bin\Debug\carpoolreq5.exe.config
+D:\UST  DEMO\day11\carpoolreq1\carpoolreq5\bin\Debug\carpoolreq5.exe
+D:\UST  DEMO\day11\carpoolreq1\carpoolreq5\bin\Debug\carpoolreq5.pdb
+D:\UST  DEMO\day11\carpoolreq1\carpoolreq5\obj\Debug\carpoolreq5.csproj.AssemblyReference.cache
+D:\UST  DEMO\day11\carpoolreq1\carpoolreq5\obj\Debug\carpoolreq5.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day11\carpoolreq1\carpoolreq5\obj\Debug\carpoolreq5.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day11\carpoolreq1\carpoolreq5\obj\Debug\carpoolreq5.exe
+D:\UST  DEMO\day11\carpoolreq1\carpoolreq5\obj\Debug\carpoolreq5.pdb
