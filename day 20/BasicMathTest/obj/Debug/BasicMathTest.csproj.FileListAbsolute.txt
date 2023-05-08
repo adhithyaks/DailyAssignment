@@ -1,0 +1,17 @@
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.dll
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.pdb
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\BasicMath.dll
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\BasicMath.pdb
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csproj.AssemblyReference.cache
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csproj.CopyComplete
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.dll
+D:\UST  DEMO\day21\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.pdb
