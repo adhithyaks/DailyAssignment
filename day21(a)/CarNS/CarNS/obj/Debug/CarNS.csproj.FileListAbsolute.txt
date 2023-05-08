@@ -1,0 +1,6 @@
+D:\UST  DEMO\day21\CarNS\CarNS\bin\Debug\CarNS.dll
+D:\UST  DEMO\day21\CarNS\CarNS\bin\Debug\CarNS.pdb
+D:\UST  DEMO\day21\CarNS\CarNS\obj\Debug\CarNS.csproj.AssemblyReference.cache
+D:\UST  DEMO\day21\CarNS\CarNS\obj\Debug\CarNS.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day21\CarNS\CarNS\obj\Debug\CarNS.dll
+D:\UST  DEMO\day21\CarNS\CarNS\obj\Debug\CarNS.pdb
