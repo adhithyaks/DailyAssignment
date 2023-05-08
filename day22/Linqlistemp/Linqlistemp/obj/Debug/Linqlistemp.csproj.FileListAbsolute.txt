@@ -1,0 +1,8 @@
+D:\UST  DEMO\day22\Linqlistemp\Linqlistemp\bin\Debug\Linqlistemp.exe.config
+D:\UST  DEMO\day22\Linqlistemp\Linqlistemp\bin\Debug\Linqlistemp.exe
+D:\UST  DEMO\day22\Linqlistemp\Linqlistemp\bin\Debug\Linqlistemp.pdb
+D:\UST  DEMO\day22\Linqlistemp\Linqlistemp\obj\Debug\Linqlistemp.csproj.AssemblyReference.cache
+D:\UST  DEMO\day22\Linqlistemp\Linqlistemp\obj\Debug\Linqlistemp.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day22\Linqlistemp\Linqlistemp\obj\Debug\Linqlistemp.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day22\Linqlistemp\Linqlistemp\obj\Debug\Linqlistemp.exe
+D:\UST  DEMO\day22\Linqlistemp\Linqlistemp\obj\Debug\Linqlistemp.pdb

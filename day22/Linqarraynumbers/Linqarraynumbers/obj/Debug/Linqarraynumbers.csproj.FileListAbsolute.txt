@@ -1,0 +1,8 @@
+D:\UST  DEMO\day22\Linqarraynumbers\Linqarraynumbers\bin\Debug\Linqarraynumbers.exe.config
+D:\UST  DEMO\day22\Linqarraynumbers\Linqarraynumbers\bin\Debug\Linqarraynumbers.exe
+D:\UST  DEMO\day22\Linqarraynumbers\Linqarraynumbers\bin\Debug\Linqarraynumbers.pdb
+D:\UST  DEMO\day22\Linqarraynumbers\Linqarraynumbers\obj\Debug\Linqarraynumbers.csproj.AssemblyReference.cache
+D:\UST  DEMO\day22\Linqarraynumbers\Linqarraynumbers\obj\Debug\Linqarraynumbers.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day22\Linqarraynumbers\Linqarraynumbers\obj\Debug\Linqarraynumbers.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day22\Linqarraynumbers\Linqarraynumbers\obj\Debug\Linqarraynumbers.exe
+D:\UST  DEMO\day22\Linqarraynumbers\Linqarraynumbers\obj\Debug\Linqarraynumbers.pdb
