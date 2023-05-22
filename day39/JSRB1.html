@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Number Table Generator</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Number Table Generator</h2>
+    <input type="number" id="inputNumber" placeholder="Enter a number" />
+    <button onclick="generateTable()">Generate Table</button>
+    <br /><br />
+    <div id="tableContainer"></div>
+
+    <script>
+        function generateTable() {
+            var inputNumber = parseInt(document.getElementById('inputNumber').value);
+            var tableContainer = document.getElementById('tableContainer');
+
+            // Clear previous table if exists
+            tableContainer.innerHTML = '';
+
+            // Create table element
+            var table = document.createElement('table');
+
+            // Generate table rows and columns
+            for (var i = 1; i <= 10; i++) {
+                var row = document.createElement('tr');
+                var cell1 = document.createElement('td');
+                var cell2 = document.createElement('td');
+
+                // Set cell values
+                cell1.textContent = i;
+                cell2.textContent = i * inputNumber;
+
+                // Append cells to the row
+                row.appendChild(cell1);
+                row.appendChild(cell2);
+
+                // Append row to the table
+                table.appendChild(row);
+            }
+
+            // Append table to the table container
+            tableContainer.appendChild(table);
+        }
+    </script>
+</body>
+</html>
