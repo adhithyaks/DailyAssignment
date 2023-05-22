@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    /*<a href="mailto:Support@contoso.com">Support@contoso.com</a>)*/
+}
+@*<p>@DateTime.Now</p>*@
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+
+ @{
+    string message = "Is 2019 a leap year? ";
+}
+
+<svg width="300" height="50" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="0" rx="10" ry="10" width="300" height="50" stroke="black"
+          fill="none" />
+    <foreignObject x="20" y="20" width="160" height="160">
+        <p>@message</p>
+    </foreignObject>
+</svg> 
+
+
+<p>@DateTime.IsLeapYear(2019)</p> 
+
+@*<p>@await DoSomething("hello", "world")</p>)*@
+
+@*<p>@GenericMethod<int>()</p>*@
+
+<p>Last week this time: @(DateTime.Now - TimeSpan.FromDays(7))</p>
+
+<p>Last week: @DateTime.Now - TimeSpan.FromDays(7)</p>
+
+@*
+@{
+    var joe = new Person("Joe", 33);
+}
+
+<p>Age@(joe.Age)</p> *@
+
+
+Hello World
+
+@{
+    var quote = "The future depends on what you do today. - Mahatma Gandhi";
+}
+
+<p>@quote</p>
+
+@{
+    quote = "Hate cannot drive out hate, only love can do that. - Martin Luther King, Jr.";
+}
+
+<p>@quote</p>
+
+@*@{
+    var inCSharp = true;
+    <p>Now in HTML, was in C# @inCSharp</p>
+}*@
+
+<div class="@false">False</div>
+<div class="@null">Null</div>
+<div class="@("")">Empty</div>
+<div class="@("false")">False String</div>
+<div class="@("active")">String</div>
+<input type="checkbox" checked="@true" name="true" />
+<input type="checkbox" checked="@false" name="false" />
+<input type="checkbox" checked="@null" name="null" />
+
+@{
+
+    string[] people = { "Adhithya" };
+
+    for (var i = 0; i < people.Length; i++)
+
+    {
+
+        var person = people[i];
+
+        <text>Name: @person</text>
+
+    }
+}
+
+
+
