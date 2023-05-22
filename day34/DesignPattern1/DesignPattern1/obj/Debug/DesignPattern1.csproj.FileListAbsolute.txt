@@ -1,0 +1,8 @@
+D:\UST  DEMO\day34\DesignPattern1\DesignPattern1\obj\Debug\DesignPattern1.csproj.AssemblyReference.cache
+D:\UST  DEMO\day34\DesignPattern1\DesignPattern1\obj\Debug\DesignPattern1.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day34\DesignPattern1\DesignPattern1\obj\Debug\DesignPattern1.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day34\DesignPattern1\DesignPattern1\bin\Debug\DesignPattern1.exe.config
+D:\UST  DEMO\day34\DesignPattern1\DesignPattern1\bin\Debug\DesignPattern1.exe
+D:\UST  DEMO\day34\DesignPattern1\DesignPattern1\bin\Debug\DesignPattern1.pdb
+D:\UST  DEMO\day34\DesignPattern1\DesignPattern1\obj\Debug\DesignPattern1.exe
+D:\UST  DEMO\day34\DesignPattern1\DesignPattern1\obj\Debug\DesignPattern1.pdb
