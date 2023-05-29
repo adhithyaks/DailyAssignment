@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Email Categorization</title>
+
+  <style>
+
+    .column {
+
+      display: inline-block;
+
+      width: 25%;
+
+      padding: 10px;
+
+      box-sizing: border-box;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <div id="email-list">
+
+    <!-- Email categories will be populated here -->
+
+  </div>
+
+  <script>
+
+    // Array of emails
+
+    var emails = [
+
+      "abc@gmail.com",
+
+      "frg@yahoo.com",
+
+      "hgjhg@hotmail.com",
+
+      "hjkgh@infy.com",
+
+      "john.doe@gmail.com",
+
+      "jane.doe@yahoo.com",
+
+      "test123@hotmail.com",
+
+      "example@gmail.com",
+
+      "user456@ngfhj.com",
+
+      "hello@hotmail.com",
+
+      "xyz@gmail.com",
+
+      "pqr@yahoo.com",
+
+      "xyz123@asd.com",
+
+      "testuser@gmail.com",
+
+      "info@yahoo.com",
+
+      "demo@hotmail.com",
+
+      "random@gmail.com",
+
+      "sample@yahoo.com",
+
+      "email123@hotmail.com",
+
+      "user@example.com",
+
+      "john.smith@gmail.com",
+
+      "jane.smith@yahoo.com",
+
+      "test456@hotmail.com",
+
+      "exampleuser@gmail.com",
+
+      "info123@yahoo.com",
+
+      "admin@hotmail.com",
+
+      "randomuser@gmail.com",
+
+      "sample123@yahoo.com",
+
+      "emailuser@hotmail.com",
+
+      "user1@gmail.com",
+
+      "user2@yahoo.com"
+
+    ];
+
+    // Initialize category objects
+
+    var categories = {
+
+      gmail: [],
+
+      yahoo: [],
+
+      hotmail: [],
+
+      others: []
+
+    };
+
+    // Categorize emails
+
+    emails.forEach(function(email) {
+
+      var domain = email.split("@")[1];
+
+      if (domain === "gmail.com") {
+
+        categories.gmail.push(email);
+
+      } else if (domain === "yahoo.com") {
+
+        categories.yahoo.push(email);
+
+      } else if (domain === "hotmail.com") {
+
+        categories.hotmail.push(email);
+
+      } else {
+
+        categories.others.push(email);
+
+      }
+
+    });
+
+    // Get the email list container
+
+    var emailList = document.getElementById("email-list");
+
+    // Display categorized emails in columns
+
+    emailList.innerHTML += "<div class='column'><h3>Gmail</h3>" + categories.gmail.join("<br>") + "</div>";
+
+    emailList.innerHTML += "<div class='column'><h3>Yahoo</h3>" + categories.yahoo.join("<br>") + "</div>";
+
+    emailList.innerHTML += "<div class='column'><h3>Hotmail</h3>" + categories.hotmail.join("<br>") + "</div>";
+
+    emailList.innerHTML += "<div class='column'><h3>Others</h3>" + categories.others.join("<br>") + "</div>";
+
+  </script>
+
+</body>
+
+</html>

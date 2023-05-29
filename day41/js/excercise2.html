@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+ <title>Day Input Form</title>
+
+</head>
+
+<body>
+
+ <form>
+
+  <label for="dayInput">Enter a Number (0-6):</label>
+
+  <input type="text" id="dayInput" name="dayInput">
+
+  <button type="button" onclick="checkInput()">Submit</button>
+
+ </form>
+
+ <script>
+
+  function checkInput() {
+
+    try {
+
+    var dayInput = document.getElementById("dayInput").value;
+
+    if (dayInput >= 0 && dayInput <= 6) {
+
+     // Valid input
+
+     var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
+     var dayName = days[dayInput];
+
+     alert("The corresponding day is: " + dayName);
+
+    } else {
+
+     // Invalid input
+
+     throw new Error("Wrong Input");
+
+    }
+
+   } catch (error) {
+
+    // Exception occurred
+
+    alert(error.message);
+
+   }
+
+  }
+
+ </script>
+
+</body>
+
+</html>
