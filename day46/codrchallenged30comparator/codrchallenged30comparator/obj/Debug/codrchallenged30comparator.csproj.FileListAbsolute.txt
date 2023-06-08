@@ -1,0 +1,8 @@
+D:\UST  DEMO\day46\codrchallenged30comparator\codrchallenged30comparator\bin\Debug\codrchallenged30comparator.exe.config
+D:\UST  DEMO\day46\codrchallenged30comparator\codrchallenged30comparator\bin\Debug\codrchallenged30comparator.exe
+D:\UST  DEMO\day46\codrchallenged30comparator\codrchallenged30comparator\bin\Debug\codrchallenged30comparator.pdb
+D:\UST  DEMO\day46\codrchallenged30comparator\codrchallenged30comparator\obj\Debug\codrchallenged30comparator.csproj.AssemblyReference.cache
+D:\UST  DEMO\day46\codrchallenged30comparator\codrchallenged30comparator\obj\Debug\codrchallenged30comparator.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day46\codrchallenged30comparator\codrchallenged30comparator\obj\Debug\codrchallenged30comparator.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day46\codrchallenged30comparator\codrchallenged30comparator\obj\Debug\codrchallenged30comparator.exe
+D:\UST  DEMO\day46\codrchallenged30comparator\codrchallenged30comparator\obj\Debug\codrchallenged30comparator.pdb
