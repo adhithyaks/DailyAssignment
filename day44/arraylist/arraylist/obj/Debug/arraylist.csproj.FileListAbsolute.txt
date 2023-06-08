@@ -1,0 +1,8 @@
+D:\UST  DEMO\day44\arraylist\arraylist\bin\Debug\arraylist.exe.config
+D:\UST  DEMO\day44\arraylist\arraylist\bin\Debug\arraylist.exe
+D:\UST  DEMO\day44\arraylist\arraylist\bin\Debug\arraylist.pdb
+D:\UST  DEMO\day44\arraylist\arraylist\obj\Debug\arraylist.csproj.AssemblyReference.cache
+D:\UST  DEMO\day44\arraylist\arraylist\obj\Debug\arraylist.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day44\arraylist\arraylist\obj\Debug\arraylist.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day44\arraylist\arraylist\obj\Debug\arraylist.exe
+D:\UST  DEMO\day44\arraylist\arraylist\obj\Debug\arraylist.pdb

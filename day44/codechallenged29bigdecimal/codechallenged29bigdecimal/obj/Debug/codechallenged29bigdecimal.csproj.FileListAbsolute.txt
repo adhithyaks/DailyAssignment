@@ -1,0 +1,8 @@
+D:\UST  DEMO\day44\codechallenged29bigdecimal\codechallenged29bigdecimal\bin\Debug\codechallenged29bigdecimal.exe.config
+D:\UST  DEMO\day44\codechallenged29bigdecimal\codechallenged29bigdecimal\bin\Debug\codechallenged29bigdecimal.exe
+D:\UST  DEMO\day44\codechallenged29bigdecimal\codechallenged29bigdecimal\bin\Debug\codechallenged29bigdecimal.pdb
+D:\UST  DEMO\day44\codechallenged29bigdecimal\codechallenged29bigdecimal\obj\Debug\codechallenged29bigdecimal.csproj.AssemblyReference.cache
+D:\UST  DEMO\day44\codechallenged29bigdecimal\codechallenged29bigdecimal\obj\Debug\codechallenged29bigdecimal.csproj.SuggestedBindingRedirects.cache
+D:\UST  DEMO\day44\codechallenged29bigdecimal\codechallenged29bigdecimal\obj\Debug\codechallenged29bigdecimal.csproj.CoreCompileInputs.cache
+D:\UST  DEMO\day44\codechallenged29bigdecimal\codechallenged29bigdecimal\obj\Debug\codechallenged29bigdecimal.exe
+D:\UST  DEMO\day44\codechallenged29bigdecimal\codechallenged29bigdecimal\obj\Debug\codechallenged29bigdecimal.pdb
