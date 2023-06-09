@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5jB0R6YwGr60PQ4gmphB1tDN1DW32ktiPw59n/p/DaI=",
+  "Source": "ACmTestWebAPI",
+  "BasePath": "_content/ACmTestWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
